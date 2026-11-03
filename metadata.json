@@ -1,0 +1,6 @@
+{
+  "name": "Siri - Personal Voice Assistant",
+  "description": "An authentic iOS Siri voice assistant in natural Hinglish for instantly executing phone commands: calling, opening apps, setting alarms & timers, and toggling settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
